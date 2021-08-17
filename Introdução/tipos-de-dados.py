@@ -13,6 +13,7 @@
 # + Soma
 # - Subtração
 # * Multiplicação
+# ** Potência
 # / Divisão
 # // Divisão real
 # % Resto de divisão
