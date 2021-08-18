@@ -1,5 +1,6 @@
 # Condicionais
 # if, elif e else
+# if = se; elif = senão, se; else = senão
 
 # Usuário vai digitar uma nota, se ela for maior que 6 aparece aprovado
 # se for entre 3 e 6 aparece recuperação
