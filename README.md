@@ -7,7 +7,7 @@
  </h1>
  <h2>Ensinado por <a href="https://github.com/marcosouzabarreto" target="_blank">mim!</a></h2>
  
- <h3>Aulas separadas em módulos, contando atualmente com 1 módulo</h3>
+ <h3>Aulas separadas em módulos, contando atualmente com 1 módulo, o de introdução</h3>
 
  
 </body>
